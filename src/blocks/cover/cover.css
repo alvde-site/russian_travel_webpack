@@ -1,0 +1,6 @@
+.cover {
+  max-width: 1184px;
+  margin: 0 auto;
+  background: url(../../images/cover-trains.jpg) center/cover no-repeat;
+}
+
